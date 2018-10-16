@@ -1,3 +1,3 @@
 # Klara
 uporabniško ime = KlaraKosec
-povezava = 
+povezava = https://github.com/KlaraKosec/hzt.git
