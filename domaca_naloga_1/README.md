@@ -17,7 +17,7 @@
 ###[Učni list - Decimalna števila.pdf](https://www.sc-nm.si/sss/si/file/download/849_fd9b628c8edd/U%C4%8Dni%20list%20-%20Decimalna%20%C5%A1tevila.pdf)
 -št.naloge: 2
 
-###[Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf=
+###[Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf)
 -št.naloge: 2
 
 ###[Učni list - Realna števila.pdf](https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf)
