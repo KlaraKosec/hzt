@@ -14,7 +14,7 @@
 ###[Učni list - Racionalna števila.pdf](https://github.com/alenFMF/ROM18-19-Vaje/tree/master/domaca_naloga_1#u%C4%8Dni-list---racionalna-%C5%A1tevilapdf)
 - št. naloge: 2
 
-###[Učni list - Decimalna števila.pdf[(https://www.sc-nm.si/sss/si/file/download/849_fd9b628c8edd/U%C4%8Dni%20list%20-%20Decimalna%20%C5%A1tevila.pdf)
+###[Učni list - Decimalna števila.pdf](https://www.sc-nm.si/sss/si/file/download/849_fd9b628c8edd/U%C4%8Dni%20list%20-%20Decimalna%20%C5%A1tevila.pdf)
 -št.naloge: 2
 
 ###[Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf=
